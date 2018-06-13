@@ -1,6 +1,11 @@
 # project-ideas
 project-ideas
 
+13 June 2018 
+
+* movies app using omdb api
+* Image gallery with thumbnails. Thumbnails display in grid. if selected. will change the current image. change opacity and animate fadin
+
 12 June 2018
 * build a simple currency application that will provide the following features:
 
